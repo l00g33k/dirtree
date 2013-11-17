@@ -1,0 +1,10 @@
+test
+Debug
+*.exe
+*.bat
+*.ilk
+*.prj
+*.pdb
+*.scc
+*.tc
+dms.*
